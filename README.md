@@ -51,3 +51,16 @@ A WordPress plugin that provides a booking cost calculator via the `[booking_quo
 - Custom database table is created on plugin activation and retained on deactivation.
 - Follows WordPress coding standards for compatibility and security.
 - Modular structure allows easy extension (e.g., AJAX, email notifications).
+
+
+## Screenshots
+
+### Booking Form UI
+Below is a screenshot of the booking form rendered on a WordPress page using the `[booking_quote]` shortcode:
+
+![Booking Form UI](assets/images/form-ui.png)
+
+### Email Template UI
+Below is a screenshot of the HTML email template sent to the admin after form submission:
+
+![Email Template UI](assets/images/email-template-ui.png)
